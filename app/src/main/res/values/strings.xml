@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BooksApiProject</string>
+    <string name="search_books_here">Search Books Here</string>
+    <string name="no_connection">No Result</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="saved_list">saved list</string>
+</resources>
